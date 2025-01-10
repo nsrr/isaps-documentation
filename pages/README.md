@@ -49,8 +49,10 @@ Each folder contains data from a single subject. Dates were removed from the EDF
     <tr><td>SubjectID</td><td>Subject identifier ([filename_id](:variables_path:/filename_id))</td></tr>
     <tr><td>DaysFromFirstDate</td><td>The number of calendar days from the first EDF date for the given subject </td></tr>
     <tr><td>FileCounterWithinDay</td><td>An incrementing number for EDF files with start times on the same calendar day </td></tr>  
-    <tr><td>ScheduleInfo</td><td>B - Block 1, 2 or 3 - denotes the 2-3 day period of ambulatory in each of the three weeks of study <br><br> SP - Sleep Period within Block <br><br> WP - Wake Period within Block <br><br> PT - part of Wake Period - may have required multiple separate recordings to capture <br><br> OC - On-call, this is the control condition where interns were scheduled to a Q3 schedule - an on-call 24+ hour shift every three days <br><br>  IV - Intervention, this is the intervention condition where the 24+hour shift was broken into two shorter shifts with a break in between </td></tr> 
+    <tr><td>ScheduleInfo</td><td>B - Block 1, 2 or 3 - denotes the 2-3 day period of ambulatory in each of the three weeks of study <br><br> SP - Sleep Period incrementing number within Block <br><br> WP - Wake Period incrementing number within Block <br><br> PT - part of Wake Period - may have required multiple separate recordings to capture <br><br> OC - On-call, this is the control condition where interns were scheduled to a Q3 schedule - an on-call 24+ hour shift every three days <br><br>  IV - Intervention, this is the intervention condition where the 24+hour shift was broken into two shorter shifts with a break in between </td></tr> 
   </table>
+
+For example, file 22F9I_019_01_B3WP2PT3OC.edf: Subject F9 (filename ID: 22F9I); 19 days from the first EDF date; the 1st file on this day; block 3 of data collection; wake period 1; part 3 of the wake period; on-call schedule.
 
 ## Access and usage restrictions
 
