@@ -68,7 +68,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> Data collection was supported by a grant (RO1 HS12032) from the Agency for Healthcare Research and Quality (AHRQ) and a grant (RO1 OH07567) from the National Institute for Occupational Safety and Health.  The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
+> Data collection was supported by a grant (RO1 HS12032) from the Agency for Healthcare Research and Quality (AHRQ) and a grant (RO1 OH07567) from the National Institute for Occupational Safety and Health.  The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002, 75N92025R00007).
 
 ## Changelog
 
